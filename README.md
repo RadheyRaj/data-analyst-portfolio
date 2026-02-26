@@ -28,7 +28,8 @@ I am currently building real-world data analysis projects to strengthen my analy
 
 ## 📊 Featured Projects
 
-### 1️⃣ India RMA Data Analysis (Excel + Power BI)
+### 1️⃣ India RMA Data Analysis
+#### 🛠   Tools Used : Excel | Power BI | Power Query | DAX
 ####    Problem:
 RMA testing data across India lacked centralized analysis for performance tracking and business decisions.
 ####    Process:
