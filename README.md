@@ -32,15 +32,15 @@ I am currently building real-world data analysis projects to strengthen my analy
 ####    Problem:
 RMA testing data across India lacked centralized analysis for performance tracking and business decisions.
 ####    Process:
-      -	Data Collection from PAN India sources
-      -	Data Cleaning using Power Query
-      -	KPI Identification
-      -	Dashboard Development in Power BI
-      -	Identified failure trends across device models
-      -	Improved turnaround time visibility
-      -	Enabled management-level decision making
-      - Provided structured insights for business optimization and performance monitoring.
-
+      -Data Collection from PAN India sources
+      -Data Cleaning using Power Query
+      -KPI Identification
+      -Dashboard Development in Power BI
+      -Identified failure trends across device models
+      -Improved turnaround time visibility
+      -Enabled management-level decision making
+      -Provided structured insights for business optimization and performance monitoring.
+---
 
 ### 2️⃣ Global RMA Progress Report Analysis
 #### 🛠   Tools Used : Excel | Power BI | Power Query | DAX
@@ -55,12 +55,29 @@ RMA testing data across India lacked centralized analysis for performance tracki
       -Stakeholder reporting
       -Cross-functional collaboration
       -Data-driven decision support
+---
       
 ### 3️⃣ Pan India BSNL R&R Report Dashbord
 #### 🛠   Tools Used : Excel | Power Query
-- Built interactive dashboard  
-- KPI tracking and trend insights  
-- Business performance visualization  
+    - Built interactive dashboard  
+    - KPI tracking and trend insights  
+    - Business performance visualization
+---
+
+### 4️⃣ Microwave Equipment Performance Analysis
+#### 🛠   Tools Used : Excel | Documentation Systems
+#### Scope:
+Testing and analyzing performance of:
+-	IP-20C, IP-20S, IP-50E, IP-50CX
+-	RFU-C, IP-20N Series
+#### Responsibilities:
+-	Performance validation
+-	Compliance testing
+-	Documentation of results
+-	Fault analysis and troubleshooting
+#### Business Impact:
+-     Improved device reliability tracking and testing standardization
+
 
 ---
 
